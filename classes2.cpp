@@ -14,7 +14,8 @@
 } harry, rohan, lovish;*/
 
 // NESTING OF MEMBER FUNCTIONS
-
+// private things can only me used by class memebers it cannot be used in main
+// nesting is used when we want to use a class memebr function inside other class wihtout showning it to the user in int main()
 
 #include <bits/stdc++.h>
 using namespace std;
