@@ -51,7 +51,7 @@ public:
         cout << "rating : " << rating << endl;
         cout << "word Count : " << wordCount << endl;
     }
-};
+}; 
 
 int main()
 {
